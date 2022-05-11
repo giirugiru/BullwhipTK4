@@ -8,13 +8,13 @@
     <title>Thesisku</title>
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="public/css/bootstrap.min.css" rel="stylesheet">
     <!-- css -->
         <!--<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500">-->
-        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-        <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
-		<link rel="stylesheet" href="assets/css/form-elements.css">
-        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="public/assets/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="public/assets/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="public/assets/css/form-elements.css">
+        <link rel="stylesheet" href="public/assets/css/style.css">
 
     <!-- css end -->
 
@@ -45,19 +45,19 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="gambar/Bullwhip_effect.png" alt="Chania">
+      <img src="public/gambar/Bullwhip_effect.png" alt="Chania">
     </div>
 
     <div class="item">
-      <img src="gambar/business_framework_bullwhip_effect_in_supply_chains_powerpoint_presentation_2_1.jpg" alt="Chania">
+      <img src="public/gambar/business_framework_bullwhip_effect_in_supply_chains_powerpoint_presentation_2_1.jpg" alt="Chania">
     </div>
 
     <div class="item">
-      <img src="gambar/img12.jpg" alt="Flower">
+      <img src="public/gambar/img12.jpg" alt="Flower">
     </div>
 
     <div class="item">
-      <img src="gambar/pZjJsM2.jpg" alt="Flower">
+      <img src="public/gambar/pZjJsM2.jpg" alt="Flower">
     </div>
   </div>
 
@@ -84,7 +84,7 @@
                             </div>
 
                             <div class="form-bottom">
-			                    <form role="form" action="login_action.php" method="post" class="login-form">
+			                    <form role="form" action="public/login_action.php" method="post" class="login-form">
 			                    	<div class="form-group">
 			                        	<input required type="text" name="username" placeholder="Username..." class="form-control">
 			                        </div>
@@ -101,8 +101,8 @@
 
 <!-- Content End -->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="js/jquery.min.js"></script>
+    <script src="public/js/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="public/js/bootstrap.min.js"></script>
   </body>
 </html>

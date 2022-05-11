@@ -52,14 +52,14 @@
 			{
 				 unset($_SESSION["statuslogin"]);
 				$sError="Invalid Bagian";
-				header("Location: index.php?sError=".urlencode($sError));
+				header("Location: /testProject1/index.php?sError=".urlencode($sError));
 			}
 		}
 	}
 	else
 	{
 		$sError="Invalid Username and/or Password";
-		header("Location: index.php?sError=".urlencode($sError));
+		header("Location: /testProject1/index.php?sError=".urlencode($sError));
 	}
 
 ?>
