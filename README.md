@@ -1,5 +1,13 @@
 # CodeIgniter 4 Application Starter
 
+## Important Notice
+After cloning the project, please do these steps:
+1. Create a new DB named `sibangsat`
+2. If you wish to change the db name, please also change `public/class/config.php` `$database` variable (line 7)
+3. Import sql file from `app/Database/sibangsat(1).sql`
+4. Match `public/class/config.php` with your webserver configuration
+5. Match `app/Config/App.php` `$baseURL` (line 26) with your webserver port configuration
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
