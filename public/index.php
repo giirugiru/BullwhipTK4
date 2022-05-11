@@ -75,7 +75,7 @@
                         <div class="col-sm-6 col-sm-offset-3 form-box">
                         	<div class="form-top">
                         		<div class="form-top-left">
-                        			<h3>Bullwhip Effect By Satrianansyah</h3>
+                        			<h3>Bullwhip Effect By Team4</h3>
                             		<p>Login To Application:</p>
                         		</div>
                         		<div class="form-top-right">
