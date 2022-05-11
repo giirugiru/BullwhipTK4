@@ -22,11 +22,11 @@
 		}
 		function getId_Bagian ()
 		{
-			return $id_bagian;
+			return $this->id_bagian;
 		}
 		function getNama_Bagian ()
 		{
-			return $nama_bagian;
+			return $this->nama_bagian;
 		}
 		function AddBagian ()
 		{
