@@ -8,6 +8,12 @@ After cloning the project, please do these steps:
 4. Match `public/class/config.php` with your webserver configuration
 5. Match `app/Config/App.php` `$baseURL` (line 26) with your webserver port configuration
 
+## How To Contribute
+1. Create new branch
+2. Make changes in that branch
+3. Commit
+4. Make pull request from your branch to master
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
